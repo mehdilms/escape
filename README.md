@@ -68,7 +68,7 @@ As Sales Engineer I would work with DevOps teams to configure Escape so that it 
 I find Escape's user interface already very intuitive and easy to use, especially for non-technical teams. 
 My first recommendation for improvement would concern details of form: certain headings mentioned in the documentation are not exactly the same as those in the interface, which leads to wasted time.
 
-Moreover, if I were in charge of the platform's UX, I'd propose an intuitive presentation of the platform on first connection. This presentation would take the form of dialogue bubbles that open one after the other to explain the user path and each specific feature.
+Moreover, if I were in charge of the platform's UI, I'd propose an intuitive presentation of the platform on first connection. This presentation would take the form of dialogue bubbles that open one after the other to explain the user path and each specific feature.
 
 A final recommendation is to rely on more Youtube tutorial videos like Tristan's for the product presentation, to explain the new features and how they work. A short format keeps things simple while giving an overview of what's new and lead to better UX once getting into the platform.
 
