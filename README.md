@@ -1,8 +1,8 @@
-ESCAPE TEST SALES ENGINEER
+### ESCAPE TEST SALES ENGINEER
 
 Answer to corresponding questions : 
 
-PART 1 : 
+# PART 1 : 
   Q1 : What can you tell about this application from the scan results ?
 The application has a relatively low Scoring (24%), which can be explained by several vulnerabilities identified by Escape, 12 in all. 
 It is exposed to risks of external exposure, leakage of sensitive data, and critical vulnerabilities.
@@ -17,7 +17,7 @@ To sum up, this application is exposed to numerous risks, some more severe than 
   Q2 : What do you notice when taking a look at the GET /users/v1 requests in the  “logs” panel? 
 The scan of this API call showed that no risk had been identified and that all unit tests had been validated. On the other hand, this endpoint exposes sensitive data such as input email addresses.
 
-Part 2 : 
+# Part 2 : 
 
 Setting up Escape Repeater locally went smoothly, and the data streams are transmitted to my Repeater client when I need them. 
 "
@@ -36,7 +36,7 @@ Setting up Escape Repeater locally went smoothly, and the data streams are trans
 2024-11-08 10:31:07.429194281 +0000 UTC INFO Processed stream in 53.073006ms (8199163)"
 
 
-Part 3 : 
+# Part 3 : 
 
 ## File Contents
 
@@ -44,7 +44,7 @@ Part 3 :
 
 For any questions or clarifications, please feel free to reach out.
 
-Part 4 : 
+# Part 4 : 
   Q1 : Considering the process achieved to start a scan, what would you anticipate as the main bottleneck when setting up Escape at the Enterprise scale?
 
 The main point of tension lies in scalability and performance management when Escape has to analyze a large number of APIs, then monitor evolutions - particularly when it comes to managing customized rules and processing large quantities of data.
